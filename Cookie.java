@@ -1,5 +1,5 @@
 /**
- * @author Group 3 - Victorira T. Tien N., Nik K. due date: Feb 17, 2021
+ * @author XiuNhon
  *
  *         subclass Cookie inherited from class DessertItem, create getter
  *         methods for Cookie, override abstract method getCost to calculate
