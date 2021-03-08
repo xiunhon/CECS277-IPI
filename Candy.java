@@ -1,6 +1,6 @@
 /**
- * @author Group 3 - Victorira T. Tien N., Nik K. due date: Feb 17, 2021
- *
+ * @author XiuNhon
+ * due date: Feb 17, 2021
  *         subclass Candy inherited from class DessertItem, create getter
  *         methods for Candy, override abstract method getCost to calculate
  *         price per lb, override toString accordingly
