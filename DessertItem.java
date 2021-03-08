@@ -1,5 +1,5 @@
 /**
- * @author Group 3 - Victorira T. Tien N., Nik K. due date: Feb 17, 2021
+ * @author XiuNhon
  *
  *         An abstract class DessertItem to create new object implementing
  *         polymorphism, inheritance, interface subclasses: Candy, Cookie,
