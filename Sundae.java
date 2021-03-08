@@ -1,5 +1,5 @@
 /**
- * @author Group 3 - Victorira T. Tien N., Nik K. due date: Feb 17, 2021
+ * @author XiuNhon
  *
  *         subclass Sundae inherited from class IceCream, create getter methods
  *         for Sundae, override abstract method getCost to calculate IceCream
