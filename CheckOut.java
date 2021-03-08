@@ -1,8 +1,7 @@
 import java.util.*;
 
 /**
- * @author Group 3 - Victorira T. Tien N., Nik K. due date: Feb 17, 2021
- * 
+ * @author XiuNhon
  *         Maintains a list of DessertItem references There is no limit to the
  *         number of DessertItem's in the list
  *
