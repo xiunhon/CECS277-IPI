@@ -1,4 +1,4 @@
-# CECS277-IPI
+# Dessert Shop
 Implement inheritance, polymorphis, interface\
 Part I
 For this homework assignment, you will be writing software in support of a Dessert Shoppe which sells candy by the pound, cookies by the dozen, ice cream, and sundaes (ice cream with a topping).
